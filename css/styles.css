@@ -1,4 +1,19 @@
-.blog {
+.blog1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: red;
+  font-family: fantasy;
+}
+
+.blog2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: red;
+  font-family: fantasy;
+}
+.blog3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
   color: red;
   font-family: fantasy;
 }
